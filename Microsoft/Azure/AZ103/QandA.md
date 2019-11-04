@@ -1,5 +1,7 @@
 # Questions and answers
+
 Date : 04 Nov 2019
+
 Question | Who | Answer
 ---|---|---
 What is the billing cycle for machines and FaaS  | NA |   
