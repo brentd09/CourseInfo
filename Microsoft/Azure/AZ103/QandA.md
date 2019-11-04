@@ -8,7 +8,7 @@ What is the billing cycle for machines and FaaS  | NA |   In the compare documen
 How long are the trial accounts for that we create in class  | NA |  One month @ $140
 Using Resource Groups for billing  | Mark |  
 Costs for Un-deallocated VMs  | NA | [Stopped v deallocated](https://blogs.technet.microsoft.com/uspartner_ts2team/2014/10/10/azure-virtual-machines-stopping-versus-stopping-deallocating/) VMs core price will still be charged for un-deallocated
-  |  |  
+Getting "Subscription Is Not Registered " errors  | Dan  |  https://aidanfinn.com/?p=21192
   |  |  
   |  |  
   |  |  
