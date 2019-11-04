@@ -9,6 +9,15 @@ How long are the trial accounts for that we create in class  | NA |  One month @
 Using Resource Groups for billing  | Mark |  
 Costs for Un-deallocated VMs  | NA | [Stopped v deallocated](https://blogs.technet.microsoft.com/uspartner_ts2team/2014/10/10/azure-virtual-machines-stopping-versus-stopping-deallocating/) VMs core price will still be charged for un-deallocated
 Getting "Subscription Is Not Registered " errors  | Dan  |  [Subscription Is Not Registered](https://aidanfinn.com/?p=21192) web site to solve some of these errors
+When creating a subscription there is a tet option what does this do?  | Chris N |  
+When running the Powershell in the lab there was an Authentication error   | Mark |  We solved this by logging off and on (the portal) 
+Step 10 Task 3, need to create a **NEW** resource group  | ChrisN | Make sure the students hit the New link under the resource group box  
+  |  |  
+  |  |  
+  |  |  
+  |  |  
+  |  |  
+  |  |  
   |  |  
   |  |  
   |  |  
