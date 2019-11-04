@@ -12,7 +12,7 @@ Getting "Subscription Is Not Registered " errors  | Dan  |  [Subscription Is Not
 When creating a subscription there is a tet option what does this do?  | ChrisN |  
 When running the Powershell in the lab there was an Authentication error   | Mark |  We solved this by logging off and on (the portal) 
 Step 10 Task 3, need to create a **NEW** resource group  | ChrisN | Make sure the students hit the New link under the resource group box  
-  |  |  
+The Extensions seems to work but the web server was not active  | Nick | re ran extensions twice and then worked 
   |  |  
   |  |  
   |  |  
