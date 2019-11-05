@@ -13,9 +13,14 @@ When creating a subscription there is a tet option what does this do?  | ChrisN 
 When running the Powershell in the lab there was an Authentication error   | Mark |  We solved this by logging off and on (the portal) 
 Step 10 Task 3, need to create a **NEW** resource group  | ChrisN | Make sure the students hit the New link under the resource group box  
 The Extensions seems to work but the web server was not active  | Nick | re ran extensions twice and then worked 
-  |  |  
-  |  |  
-  |  |  
+
+Date : 05 Nov 2019
+
+Question | Who | Answer
+---|---|---
+How do we trigger a fail of a "site" in Azure to test DR  | Nick  |  
+How do we use expressroute for uploading information into office 365  | ChrisN |  
+What is a use case for the local storage emulator | ChrisN |  When developing a solution using an on-prem storage emulator is fast cheap and provides most of the features developers would need to test out a solution
   |  |  
   |  |  
   |  |  
