@@ -43,6 +43,6 @@
 <BR>
 [How to create a RunBook](https://docs.microsoft.com/en-us/azure/automation/automation-first-runbook-textual)
 <BR>
-[]()
+[OMS Operations Management Suite](https://azure.microsoft.com/en-au/resources/videos/operations-management-suite-oms-overview/)
 <BR>
 []()  
