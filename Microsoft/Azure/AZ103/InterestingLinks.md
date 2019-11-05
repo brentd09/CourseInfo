@@ -41,7 +41,7 @@
 ## Monitoring
 [Azure Automation runbook types](https://docs.microsoft.com/en-us/azure/automation/automation-runbook-types)
 <BR>
-[RunBook Examples](https://docs.microsoft.com/en-us/system-center/orchestrator/runbook-samples?view=sc-orch-2019)
+[How to create a RunBook](https://docs.microsoft.com/en-us/azure/automation/automation-first-runbook-textual)
 <BR>
 []()
 <BR>
