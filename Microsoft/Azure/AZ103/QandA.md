@@ -1,6 +1,6 @@
 # Questions and answers
 
-# Date : 04 Nov 2019
+## Date : 04 Nov 2019
 
 Question | Who | Answer
 ---|---|---
@@ -14,7 +14,7 @@ When running the Powershell in the lab there was an Authentication error   | Mar
 Step 10 Task 3, need to create a **NEW** resource group  | ChrisN | Make sure the students hit the New link under the resource group box  
 The Extensions seems to work but the web server was not active  | Nick | re ran extensions twice and then worked 
 
-# Date : 05 Nov 2019
+## Date : 05 Nov 2019
 
 Question | Who | Answer
 ---|---|---
@@ -22,6 +22,11 @@ How do we trigger a fail of a "site" in Azure to test DR  | Nick  |
 How do we use expressroute for uploading information into office 365  | ChrisN |  
 What is a use case for the local storage emulator | ChrisN |  When developing a solution using an on-prem storage emulator is fast cheap and provides most of the features developers would need to test out a solution
 Every student account was locked out and they needed to enter their phone number, one has been locked out siteing too many uses of the same phone number  | Mark |  got to account.live.com - in here there when logging in it will ask for your login and your phone number, a test is sent to you phone number and this will unlock the account. This fix is for when the login is telling you that the account is locked with to many retries.
+
+## Date : 06 Nov 2019
+
+Question | Who | Answer
+---|---|---
   |  |  
   |  |  
   |  |  
