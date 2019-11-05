@@ -8,7 +8,7 @@
 [Storage Video](https://channel9.msdn.com/events/Build/2018/BRK2112?term=%22azure%20storage%22&sortBy=recent&lang-en=true&pageSize=15)
 <BR>
 [Storage queues video](https://www.youtube.com/watch?v=Tu9WGaePtBA)
-
+<BR>
 [Understanding block blobs, append blobs, and page blobs](https://docs.microsoft.com/en-us/rest/api/storageservices/understanding-block-blobs--append-blobs--and-page-blobs)
 <BR>
 [How to create nested folders within Azure Blob container](https://fsou1.github.io/Nested_folders_with_azure_blob_storage/)
