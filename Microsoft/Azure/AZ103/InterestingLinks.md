@@ -38,6 +38,28 @@
 
 ## Connectivity
 
+[Virtual network peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
+<BR>
+[Routing in vnets](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)  
+<BR>
+[Service Chaining](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview#user-defined)  
+<BR>
+[Creating hub and spoke topology](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?toc=%2fazure%2fvirtual-network%2ftoc.json)
+<BR>
+[VNet-to-VNet Connectivity](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal#vnet-to-vnet)  
+<BR>
+[Site-to-Site Connectivity](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal)
+<BR>
+[Azure ExpressRoute info](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-faqs)  
+<BR>
+[]()
+<BR>
+[]()   
+<BR>
+[]()
+<BR>
+[]()  
+  
 ## Monitoring
 [Azure Automation runbook types](https://docs.microsoft.com/en-us/azure/automation/automation-runbook-types)
 <BR>
