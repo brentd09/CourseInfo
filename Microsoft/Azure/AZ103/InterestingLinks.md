@@ -41,7 +41,6 @@
 [Virtual network peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
 <BR>
 [Routing in vnets](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)  
-<BR>
 [Service Chaining](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview#user-defined)  
 <BR>
 [Creating hub and spoke topology](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?toc=%2fazure%2fvirtual-network%2ftoc.json)
