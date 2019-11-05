@@ -36,7 +36,14 @@
 
 [Azure Network routing](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
 
+## Connectivity
+
+## Monitoring
+<BR>
+[Azure Automation runbook types](https://docs.microsoft.com/en-us/azure/automation/automation-runbook-types)
+<BR>
 []()
+<BR>
 []()
-[]()
-[]()
+<BR>
+[]()  
