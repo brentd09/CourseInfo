@@ -19,7 +19,7 @@ The Extensions seems to work but the web server was not active   | re ran extens
 Question | Answer
 ---|---
 How do we trigger a fail of a "site" in Azure to test DR    |  
-How do we use expressroute for uploading information into office 365   |  The sucscription cost covers this
+How do we use expressroute for uploading information into office 365   |  The subscription cost covers this
 What is a use case for the local storage emulator  |  When developing a solution using an on-prem storage emulator is fast cheap and provides most of the features developers would need to test out a solution
 Every student account was locked out and they needed to enter their phone number, one has been locked out siteing too many uses of the same phone number  |  got to account.live.com - in here there when logging in it will ask for your login and your phone number, a test is sent to you phone number and this will unlock the account. This fix is for when the login is telling you that the account is locked with to many retries.
 
