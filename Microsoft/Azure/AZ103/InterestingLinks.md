@@ -49,13 +49,7 @@
 <BR>
 [Azure ExpressRoute info](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-faqs)  
 <BR>
-[]()
-<BR>
-[]()   
-<BR>
-[]()
-<BR>
-[]()  
+
   
 ## Monitoring
 [Azure Automation runbook types](https://docs.microsoft.com/en-us/azure/automation/automation-runbook-types)
@@ -65,3 +59,11 @@
 [OMS Operations Management Suite](https://azure.microsoft.com/en-au/resources/videos/operations-management-suite-oms-overview/)
 <BR>
 [Query Language](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/query-language)  
+<BR>  
+[]()
+<BR>
+[]()   
+<BR>
+[]()
+<BR>
+[]()    
