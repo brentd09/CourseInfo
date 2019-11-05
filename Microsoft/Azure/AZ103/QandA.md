@@ -26,11 +26,11 @@ Every student account was locked out and they needed to enter their phone number
 ## Date : 06 Nov 2019
 
 Question  | Answer
----|---|---
-  |  |  
-  |  |  
-  |  |  
-  |  |  
-  |  |  
-  |  |  
-  |  |  
+---|---
+  |   
+  |   
+  |  
+  |   
+  |  
+  |   
+  |  
