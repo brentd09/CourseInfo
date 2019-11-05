@@ -1,4 +1,4 @@
-# Azure Links
+# Links relating to the course
 
 ## Azure Administration
 
