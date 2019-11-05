@@ -3,6 +3,10 @@
 ## Azure Administration
 
 ## Azure Virtual Machines
+[Introduction to Azure managed disks](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview)
+<BR>
+[Introduction to Azure managed disks](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview)
+<BR>
 
 ## Azure Storage
 [Storage Video](https://channel9.msdn.com/events/Build/2018/BRK2112?term=%22azure%20storage%22&sortBy=recent&lang-en=true&pageSize=15)
