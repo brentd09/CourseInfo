@@ -13,6 +13,8 @@ Azure Load Balancer
 
 Azure Traffic Manager
 ## Module 9 Azure Active Directory
+Azure AD
+
 Azure AD Connect
 
 Azure AD Join
@@ -20,6 +22,8 @@ Azure AD Join
 Multi-Factor Authentication
 
 Azure AD Identity Protection
+
+Self-Service Password Reset
 ## Module 11 Governance and Compliance
 Subscriptions and Accounts
 
