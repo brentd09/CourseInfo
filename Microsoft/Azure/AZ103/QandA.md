@@ -28,7 +28,7 @@ If Azure account lock and you cannot unlock with sms code |  Go to account.live.
 
 Question  | Answer
 ---|---
- How to trigger a RunBook manually |   
+ How to trigger a RunBook manually |   [Start RunBook manually](https://docs.microsoft.com/en-us/azure/automation/start-runbooks) 
  Azure action - SMS how much does it cost | The creation of the Alert Action says that carrier charges may apply, when tested we saw it uses an Australian cellphone number   
   |  
   |   
