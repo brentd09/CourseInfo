@@ -30,8 +30,13 @@ Question  | Answer
 ---|---
  How to trigger a RunBook manually |   [Start RunBook manually](https://docs.microsoft.com/en-us/azure/automation/start-runbooks) 
  Azure action - SMS how much does it cost | The creation of the Alert Action says that carrier charges may apply, when tested we saw it uses an Australian cellphone number   
-  |  
-  |   
-  |  
+
+## Date : 07 Nov 2019
+
+Question  | Answer
+---|---
+Azure stack? | This is Microsofts answer to OpenStack,   Azure Stack is basically the same APIs, tools and processes that power Azure, but it’s intended to be hosted on-premises in private cloud scenarios.
+Azure Arc | Organize and govern across environments - Get databases, Kubernetes clusters, and servers sprawling across on-premises, edge and multicloud environments under control by centrally organizing and governing from a single place.
+
   |   
   |  
