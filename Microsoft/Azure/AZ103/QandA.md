@@ -27,8 +27,8 @@ Every student account was locked out and they needed to enter their phone number
 
 Question  | Answer
 ---|---
-  |   
-  |   
+ How to trigger a RunBook manually |   
+ Azure action - SMS how much does it cost | The creation of the Alert Action says that carrier charges may apply, when tested we saw it uses an Australian cellphone number   
   |  
   |   
   |  
