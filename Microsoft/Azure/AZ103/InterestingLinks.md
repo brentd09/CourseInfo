@@ -58,7 +58,8 @@
 <BR>
 [OMS Operations Management Suite](https://azure.microsoft.com/en-au/resources/videos/operations-management-suite-oms-overview/)
 <BR>
-[Query Language](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/query-language) 
+[Query Language](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/query-language)
+<BR>  
 [Azure Monitor Documentation](https://docs.microsoft.com/en-us/azure/azure-monitor/)
 <BR>
 []()   
