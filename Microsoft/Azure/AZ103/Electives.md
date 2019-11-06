@@ -4,7 +4,7 @@ Module 7 Data Protection|
 Data Replication|
 File and Folder Backups|
 Virtual Machine Backups|
----|---
+.|.
 Module 8 Network Traffic Management|
 Network Routing|
 Azure Load Balancer|
