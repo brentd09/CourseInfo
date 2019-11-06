@@ -60,6 +60,8 @@
 
 [Query Language](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/query-language)
 
+[How to write queries](https://docs.microsoft.com/en-us/azure/data-explorer/write-queries)
+
 [Azure Monitor Documentation](https://docs.microsoft.com/en-us/azure/azure-monitor/)
 
 []()   
