@@ -58,9 +58,7 @@
 
 [OMS Operations Management Suite](https://azure.microsoft.com/en-au/resources/videos/operations-management-suite-oms-overview/)
 
-[Query Language](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/query-language)
-
-[How to write queries](https://docs.microsoft.com/en-us/azure/data-explorer/write-queries)
+[Query Language](https://docs.microsoft.com/en-us/azure/kusto/query/)
 
 [Azure Monitor Documentation](https://docs.microsoft.com/en-us/azure/azure-monitor/)
 
