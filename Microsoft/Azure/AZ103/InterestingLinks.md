@@ -60,7 +60,7 @@
 <BR>
 [Query Language](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/query-language)  
 <BR>  
-[]()
+[Azure Monitor Documentation](https://docs.microsoft.com/en-us/azure/azure-monitor/)
 <BR>
 []()   
 <BR>
