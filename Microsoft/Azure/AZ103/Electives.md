@@ -1,7 +1,7 @@
-Topic | Who|
+Topic | Who|---
 ---|---|---
-Module 7 Data Protection||
-Data Replication| [ ] |
+Module 7 Data Protection|--|--
+Data Replication| [ ] |--
 
 File and Folder Backups|[] [] [] [] []
 Virtual Machine Backups|[] [] [] [] []
