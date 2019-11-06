@@ -2,6 +2,8 @@
 
 ## Azure Administration
 
+[JSON Intro](https://www.w3schools.com/js/js_json_intro.asp)
+
 ## Azure Virtual Machines
 [Introduction to Azure managed disks](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview)
 
