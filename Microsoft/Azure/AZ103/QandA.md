@@ -38,3 +38,4 @@ Question  | Answer
 Azure stack? | This is Microsoft's answer to OpenStack,   Azure Stack is basically the same APIs, tools and processes that power Azure, but it’s intended to be hosted on-premises in private cloud scenarios. This started as a software platform and now is available as hardware solutions.<BR>[Azure Stack Intro](https://channel9.msdn.com/Blogs/azurestack/Introducing-Microsoft-Azure-Stack?term=azure%20stack&lang-en=true)
 Azure Arc | Organize and govern across environments - Get databases, Kubernetes clusters, and servers sprawling across on-premises, edge and multicloud environments under control by centrally organizing and governing from a single place. Utilising the power of Azure Stack.
 How to move a VM to another region | [Move Azure VM to another region](https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-migrate)
+How are load balancer highly available | 
