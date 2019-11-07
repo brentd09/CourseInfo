@@ -18,7 +18,7 @@ The Extensions seems to work but the web server was not active   | re ran extens
 
 Question | Answer
 ---|---
-How do we trigger a fail of a "site" in Azure to test DR    |  
+How do we trigger a fail of a "site" in Azure to test DR    |  I think this requires a different mindset as we can have a failover to another region but within our region we don not have failover sites like we do on-prem.
 How do we use expressroute for uploading information into office 365   |  The subscription cost covers this
 What is a use case for the local storage emulator  |  When developing a solution using an on-prem storage emulator is fast cheap and provides most of the features developers would need to test out a solution
 Azure Account locked during course | Enter phone number and repond with SMS code to unlock
