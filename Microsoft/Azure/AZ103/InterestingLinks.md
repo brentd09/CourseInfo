@@ -62,8 +62,5 @@
 
 [Azure Monitor Documentation](https://docs.microsoft.com/en-us/azure/azure-monitor/)
 
-[]()   
-
-[]()
-
-[]()    
+## Backup
+[Move Azure VM to another region](https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-migrate)
