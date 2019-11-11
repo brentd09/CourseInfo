@@ -13,3 +13,4 @@ Can WEM be used from Citrix Cloud | YES, check out the docs for it, [WEM service
 
 Question  | Answer
 ---|---
+PVS created issues with activation of Office and Windows via KMS | [Here](https://support.citrix.com/article/CTX128276) is a tech acticle regarding this 
