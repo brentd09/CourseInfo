@@ -1,7 +1,5 @@
 # Questions and answers
 
-> this is s a block
-
 ## Date : 11 Nov 2019
 
 Question  | Answer
