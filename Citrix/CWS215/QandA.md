@@ -14,7 +14,7 @@ Can WEM be used from Citrix Cloud | YES, check out the docs for it, [WEM service
 Question  | Answer
 ---|---
 PVS created issues with activation of Office and Windows via KMS | [Here](https://support.citrix.com/article/CTX128276) is a Citrix Support article regarding this. 
-Local Host Cache is supported withCitrix cloud ONLY if there is an on-prem StoreFront server present| This issue is outlined in [the local host cache](https://docs.citrix.com/en-us/citrix-virtual-apps-desktops-service/manage-deployment/local-host-cache.html) Citrix doc file
+Local Host Cache is supported with Citrix cloud ONLY if there is an on-prem StoreFront server present| This issue is outlined in [the local host cache](https://docs.citrix.com/en-us/citrix-virtual-apps-desktops-service/manage-deployment/local-host-cache.html) Citrix doc file
 What has the recommended external beacon address changed to? | The external beacon should now be  [ping.citrix.com](https://support.citrix.com/article/CTX261993)
 
 ## Date : 13 Nov 2019
