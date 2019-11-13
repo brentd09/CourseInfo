@@ -21,4 +21,4 @@ What has the recommended external beacon address changed to? | The external beac
 
 Question  | Answer
 ---|---
-Is there a way to export and import Citrix policies | If you are exporting and importing policies from and to the same site then this [article](https://support.citrix.com/article/CTX136646) may help. This method can only export Studio policies and there is no way of choosing which policy to export, it's all or nothing through this method.
+Is there a way to export and import Citrix policies | If you are exporting and importing policies from and to the same site then this [article](https://support.citrix.com/article/CTX136646) may help. This method can only export Studio policies and there is no way of choosing which policy to export, it's all or nothing through this method. <BR>[This support article may be better]https://support.citrix.com/article/CTX140039) if you need to import policies to GPO from Local Studio policies
