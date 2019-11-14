@@ -28,3 +28,9 @@ Is there a way to export and import Citrix policies | If you are exporting and i
 Question  | Answer
 ---|---
 Differences between the installed HDX client and The HTML5 client | Look at this [feature matrix](https://www.citrix.com/content/dam/citrix/en_us/documents/data-sheet/citrix-workspace-app-feature-matrix.pdf) of all the Citrix Clients and features
+  
+## Date : 15 Nov 2019
+
+Question  | Answer
+---|---
+What is CIS |   go [here](https://cis.citrix.com/AutoSupport/howitworks/) for an explanation regarding how CIS works
