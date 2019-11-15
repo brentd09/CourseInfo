@@ -34,3 +34,4 @@ Differences between the installed HDX client and The HTML5 client | Look at this
 Question  | Answer
 ---|---
 What is CIS |   go [here](https://cis.citrix.com/AutoSupport/howitworks/) for an explanation regarding how CIS works
+Is there a tool that can check the proxy support for Citrix Cloud | Look [here](https://support.citrix.com/article/CTX260337) for a tool from Citrix that will help in this regard.
