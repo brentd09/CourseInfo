@@ -4,4 +4,4 @@
 
 Question  | Answer
 ---|---
-Rendezvois Protocol may no longer be supported | (ICA Policy Settings)[https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/policies/reference/ica-policy-settings.html]
+Rendezvois Protocol may no longer be supported | [ICA Policy Settings](https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/policies/reference/ica-policy-settings.html)
