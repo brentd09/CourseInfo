@@ -1,4 +1,4 @@
-# Lab Problems
+# Potential Lab Issues
 
 Lab | Step | Problem | Fix
 ---|---|---|---
