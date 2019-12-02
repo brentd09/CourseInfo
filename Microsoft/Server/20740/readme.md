@@ -1,5 +1,8 @@
+# Turning on PSRemoting remotly!
 
+```
 ([wmiclass]"\\$CN\root\cimv2:Win32_Process").Create('powershell "Enable-PSRemoting -Force"')
+```
 
 Try this out to enable PSRemoting on a machine that does not have it enalbed already, if this does not work try this
 
