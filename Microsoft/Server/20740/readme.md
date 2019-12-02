@@ -1,4 +1,4 @@
-# Turning on PSRemoting remotly!
+# Turning on PSRemoting remotely!
 
 Try this out to enable PSRemoting on a machine that does not have it enalbed already,
 
