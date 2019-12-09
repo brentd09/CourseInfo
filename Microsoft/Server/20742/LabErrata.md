@@ -37,7 +37,7 @@
 >The domain will ask about using a smtp or txt dns entry to verify the domain (Do not worry about this its not needed for the lab)
 
 
-# Next lab section 
+## Next lab section 
 
 ### Configuring Dir sync
 
