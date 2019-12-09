@@ -1,5 +1,5 @@
 # Module 12 Azure AD Sync
-- The Azure AD Sync labs are out of date, this brief change list helps students work their way through the labs more easily
+- The Azure AD Sync labs are out of date, *this is normal as Azure changes often*, this basic change list shows what needs to be updated in the lab instructions *(Unless they have already been updated)* and helps you work your way through the labs more easily
 
 ## If a step appears here it's because it replaces or inserts extra steps to run the lab correctly
 
