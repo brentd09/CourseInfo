@@ -10,4 +10,4 @@ Why in module 10 do some of the servers get joined into the domain when it not b
 
 Question  | Answer
 ---|---
-Folder Redriection vs Known Folder Move | The [KFM](https://docs.microsoft.com/en-us/onedrive/redirect-known-folders) is for OneDrive folder redirection.
+Folder Redirection vs Known Folder Move | The [KFM](https://docs.microsoft.com/en-us/onedrive/redirect-known-folders) is for OneDrive folder redirection.
