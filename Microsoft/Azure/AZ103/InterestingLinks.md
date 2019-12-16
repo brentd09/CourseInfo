@@ -69,4 +69,4 @@
 [Keep up with the latest via newsfeed view](https://feedly.com/)
 
 ## Free Tools SolarWinds
-[Free tools tabbed putty tool and much more](https://www.solarwinds.com/free-tools)
+[Free tools, (tabbed putty tool and much more)](https://www.solarwinds.com/free-tools)
