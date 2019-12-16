@@ -44,5 +44,5 @@ How are load balancer highly available | Load balancers are regionally based so 
 
 Question  | Answer
 ---|---
-What does an Azure lock, lock?|The lock placed on a parent scope is inherited by all resources within that parent scope
+What does an Azure lock, lock?|The lock placed on a parent scope is inherited by all resources within that parent scope, this applies to existing and newly created resources in that parent scope.
 Who can remove an Azure lock?|To create or delete management locks, you must have access to Microsoft.Authorization/* or Microsoft.Authorization/locks/* actions. Of the built-in roles, only Owner and User Access Administrator are granted those actions.
