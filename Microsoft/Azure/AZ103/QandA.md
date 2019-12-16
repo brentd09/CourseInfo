@@ -39,3 +39,10 @@ Azure stack? What is this? | This is Microsoft's answer to OpenStack,   Azure St
 Azure Arc | Organize and govern across environments - Get databases, Kubernetes clusters, and servers sprawling across on-premises, edge and multicloud environments under control by centrally organizing and governing from a single place. Utilising the power of Azure Stack.
 How to move a VM to another region | [Move Azure VM to another region](https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-migrate)
 How are load balancer highly available | Load balancers are regionally based so it would take a region outage to lose a load balancer
+
+## Date : 16 Dec 2019
+
+Question  | Answer
+---|---
+What does an Azure lock, lock?|The lock placed on a parent scope is inherited by all resources within that parent scope
+Who can remove an Azure lock?|To create or delete management locks, you must have access to Microsoft.Authorization/* or Microsoft.Authorization/locks/* actions. Of the built-in roles, only Owner and User Access Administrator are granted those actions.
