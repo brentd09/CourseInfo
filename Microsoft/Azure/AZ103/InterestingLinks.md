@@ -64,3 +64,6 @@
 
 ## Backup
 [Move Azure VM to another region](https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-migrate)
+
+## News feed
+[Keep up with the latest via newsfeed view](https://feedly.com/)
