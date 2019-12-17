@@ -53,7 +53,7 @@ Suggested Module Order:
 |M08|Network Traffic Management|
 |M11|Governance and Compliance|
 |M07|Data Protection|
-|M12|Data Services|
+|M12|-Self-study- Data Services|
 
 
 
