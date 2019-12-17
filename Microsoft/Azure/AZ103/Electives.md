@@ -40,3 +40,20 @@ File Sync
 Import and Export Service
 
 Data Box
+
+## Day 4 - Elected Modules
+
+### Date: 18 Dec 2019
+Suggested Module Order:
+
+|Module|Activity|
+|-|-|
+|M09|Active Directory|
+|M10|Securing Identities|
+|M08|Network Traffic Management|
+|M11|Governance and Compliance|
+|M07|Data Protection|
+|M12|Data Services|
+
+
+
