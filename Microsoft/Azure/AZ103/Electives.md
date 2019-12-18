@@ -41,7 +41,7 @@ Import and Export Service
 
 Data Box
 
-## Day 4 - Elected Modules
+## Day 3 & 4 - Elected Modules
 
 ### Date: 18 Dec 2019
 Suggested Module Order:
