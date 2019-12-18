@@ -1,4 +1,7 @@
 # Lab Issues
-### Module 6
----|---
-When creating resources in multiple regions use East US and SE Asia an
+
+LabNumber | Step | Problem | Fix
+---|---|---|---
+6 | ? | Second VM will not create | Place the first in East US and the Second in SE Asia these two regions seem to work for the lab
+
+
