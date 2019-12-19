@@ -49,3 +49,9 @@ Who can remove an Azure lock?|To create or delete management locks, you must hav
 What if I cannot remove the resource or the lock | Some Azure services, such as Azure Databricks, use managed applications to implement the service. In that case, the service creates two resource groups. One resource group contains an overview of the service and isn't locked. The other resource group contains the infrastructure for the service and is locked.<BR> - If you try to delete the infrastructure resource group, you get an error stating that the resource group is locked. If you try to delete the lock for the infrastructure resource group, you get an error stating that the lock can't be deleted because it's owned by a system application. <BR> - Instead, delete the service, which also deletes the infrastructure resource group.
 Tag usage| Tags can be used for many purpose: Access Control and Compliance information, Automation tasks, Costing Information, Which resources are needed for generating reports. <BR>However do not have inconsistent tag data, example Department:HumanResources vs Department:HR this will create blindspots in your management and reporting. 
 Page Blobs what are they good for| Page blobs are a collection of 512-byte pages, which provide the ability to read/write arbitrary ranges of bytes. Hence, page blobs are ideal for storing index-based and sparse data structures like OS and data disks for Virtual Machines and Databases [MS Docs](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-pageblob-overview)
+
+## Date : 19 Dec 2019
+
+Question  | Answer
+---|---
+Is there any way to backup the metadata of non-vm resources from Azure so that we can restore resources to their original state|?
