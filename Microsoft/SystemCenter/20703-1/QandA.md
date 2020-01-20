@@ -1,6 +1,6 @@
 # Questions and answers
 
-## Date : 21 Jan 2020
+## Date : 20 Jan 2020
 
 Question  | Answer
 ---|---
