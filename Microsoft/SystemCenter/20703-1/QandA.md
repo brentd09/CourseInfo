@@ -10,5 +10,5 @@ Why Implement a Secondary site VS a Distribution Point | A secondary site may be
 
 Question  | Answer
 ---|---
-How to get the EndPoingProtection summary emailed as a report from SCCM | The best way to do this is with a custom report via SQL
+How to get the EndPoint Protection summary emailed as a report from SCCM | The best way to do this is with a custom report via SQL
 How to create a license file to import to asset intelligence | [Microsoft Docs](https://docs.microsoft.com/en-us/configmgr/core/clients/manage/asset-intelligence/configuring-asset-intelligence) 
