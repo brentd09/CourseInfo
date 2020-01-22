@@ -12,3 +12,11 @@ Question  | Answer
 ---|---
 How to get the EndPoint Protection summary emailed as a report from SCCM | The best way to do this is with a custom report via SQL
 How to create a license file to import to asset intelligence | [Microsoft Docs](https://docs.microsoft.com/en-us/configmgr/core/clients/manage/asset-intelligence/configuring-asset-intelligence) 
+
+## Date : 20 Jan 2020
+
+Question  | Answer
+---|---
+After installation files need to be replaced, how is this setup in SCCM | There are several ways to achieve this but one simple way is to setup the application with a deployment type of MSI and another for the script that will replace the files. Set the Script to have a dependency for the MSI and then just make sure you are adding detection methods to ensure the MSI has installed before the script runs.
+How do I change the target location of an application | This will send the installation to a different path: msiexec /passive TARGETDIR="D:\MyTargetDirectory" /i Software.msi
+Can we get a quick report from powershell regarding the status of the Endpoint Security status | Get-Ciminstance -Namespace root/sms/Site_S01 -Classname SMS_EndpointProtectionHealthStatus
