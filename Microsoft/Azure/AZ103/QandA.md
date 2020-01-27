@@ -54,4 +54,4 @@ Page Blobs what are they good for| Page blobs are a collection of 512-byte pages
 
 Question  | Answer
 ---|---
-Is there any way to backup the metadata of non-vm resources from Azure so that we can restore resources to their original state|?
+Is there any way to backup the metadata of non-vm resources from Azure so that we can restore resources to their original state|This is the wrong way to look at resources in cloud, we should be looking to use IaC Infrastructure as Code, cloud should be modified by idempotent instead of procedural changes is what we should be looking at, in this way if a resource needs to be re-added we run the idempotent IaC to replay the creation of the resource. 
