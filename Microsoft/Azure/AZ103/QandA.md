@@ -71,3 +71,4 @@ DSC is it installed automatically, or do we need to trigger the install with the
 
 Question  | Answer
 ---|---
+Moving blobs between cold and hot starage, what is the deal here. AWS just changes policies on s3 buckets, how does Azure do it? |
