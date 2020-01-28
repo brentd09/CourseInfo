@@ -61,5 +61,6 @@ Is there any way to backup the metadata of non-vm resources from Azure so that w
 Question  | Answer
 ---|---
 Can we move resources from region to region? |
-Are Availabilty sets available in all subscription tiers |
-How to find the difference between Azure VM family types, some look identical but have different prices |
+Are Availabilty sets available in all subscription tiers? |
+How to find the difference between Azure VM family types, some look identical but have different prices? |
+Is there a way to determine if a resource creation has finished when deploying with powershell? |
