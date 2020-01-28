@@ -64,7 +64,7 @@ Can we move resources from region to region? | [Move/Migrate Resources from one 
 Are Availabilty sets available in all subscription tiers? | There seems to be no information showing that this service is restricted to a set of tiers
 How to find the difference between Azure VM family types, some look identical but have different prices? | [Different Azure Families](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/series/)
 Is there a way to determine if a resource creation has finished when deploying with powershell? | [One way to be notified](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-activity-log#create-with-azure-portal)
-DSC is it installed automatically, or do we need to trigger the install with the UPDATE button | Azure Automation State Configuration brings the same management layer to PowerShell Desired State Configuration as Azure Automation offers for PowerShell scripting. [State Configuration](https://docs.microsoft.com/en-us/azure/automation/automation-dsc-overview)
+DSC is it installed automatically, or do we need to trigger the install with the UPDATE button | Azure Automation **State Configuration** brings the same management layer to PowerShell Desired State Configuration as Azure Automation offers for PowerShell scripting. [State Configuration](https://docs.microsoft.com/en-us/azure/automation/automation-dsc-overview)
 
 
 ## Date : 29 Jan 2020
