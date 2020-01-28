@@ -64,3 +64,10 @@ Can we move resources from region to region? | [Move/Migrate Resources from one 
 Are Availabilty sets available in all subscription tiers? | There seems to be no information showing that this service is restricted to a set of tiers
 How to find the difference between Azure VM family types, some look identical but have different prices? | [Different Azure Families](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/series/)
 Is there a way to determine if a resource creation has finished when deploying with powershell? |
+DSC is it installed automatically, or do we need to trigger the install with the UPDATE button |
+
+
+## Date : 29 Jan 2020
+
+Question  | Answer
+---|---
