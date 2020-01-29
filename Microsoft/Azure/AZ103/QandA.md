@@ -78,4 +78,4 @@ DNS Zone, Record Sets are they like DNS Round Robin? | The do not appear to be, 
 
 Question  | Answer
 ---|---
-Can we create a VNet peer between subscriptions? | [YES](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
+Can we create a VNet peer between subscriptions? | [YES](https://docs.microsoft.com/en-us/azure/virtual-network/create-peering-different-subscriptions)
