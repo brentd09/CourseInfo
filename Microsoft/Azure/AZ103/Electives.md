@@ -55,5 +55,15 @@ Suggested Module Order:
 |M07|Data Protection|
 |M12|-Self-study- Data Services|
 
+### Date: 28 Jan 2020
+Suggested Module Order:
 
+|Module|Activity|
+|-|-|
+|M08|Network Traffic Management|
+|M09|Active Directory|
+|M10|Securing Identities|
+|M11|Governance and Compliance|
+|M07|Data Protection|
+|M12|-Self-study- Data Services|
 
