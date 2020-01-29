@@ -1,33 +1,31 @@
 # Electives
 
 ## Module 7 Data Protection
-Data Replication
-
-File and Folder Backups
-
-Virtual Machine Backups
+Data Replication<BR>
+File and Folder Backups<BR>
+Virtual Machine Backups<BR>
 ## Module 8 Network Traffic Management
-Network Routing
-Azure Load Balancer
-Azure Traffic Manager
+Network Routing<BR>
+Azure Load Balancer<BR>
+Azure Traffic Manager<BR>
 ## Module 9 Azure Active Directory
-Azure AD
-Azure AD Connect
-Azure AD Join
+Azure AD<BR>
+Azure AD Connect<BR>
+Azure AD Join<BR>
 ## Module 10 Securing Identities
-Multi-Factor Authentication
-Azure AD Identity Protection
-Self-Service Password Reset
+Multi-Factor Authentication<BR>
+Azure AD Identity Protection<BR>
+Self-Service Password Reset<BR>
 ## Module 11 Governance and Compliance
-Subscriptions and Accounts
-Role-based Access Control
-Users and Groups
-Azure Policy
+Subscriptions and Accounts<BR>
+Role-based Access Control<BR>
+Users and Groups<BR>
+Azure Policy<BR>
 ## Module 12 Data Services
-Content Delivery Network
-File Sync
-Import and Export Service
-Data Box
+Content Delivery Network<BR>
+File Sync<BR>
+Import and Export Service<BR>
+Data Box<BR>
 
 ## Day 3 & 4 - Elected Modules
 
