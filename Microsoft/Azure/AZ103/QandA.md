@@ -72,3 +72,4 @@ DSC is it installed automatically, or do we need to trigger the install with the
 Question  | Answer
 ---|---
 Moving blobs between cold and hot starage, what is the deal here. AWS just changes policies on s3 buckets, how does Azure do it? |
+DNS Zone, Record Sets are they like DNS Round Robin? | The do not appear to be, most of the documentation I can find shows that most record sets consist of one record. I would guess that if the client can understand and use multiple answers from DNS then this would be useful. 
