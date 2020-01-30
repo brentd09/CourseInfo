@@ -1,6 +1,6 @@
 
 
-#Module 0 Welcome
+# Module 0 Welcome
 
 
 
@@ -18,7 +18,7 @@ This is a note
 
 
 
-#Module 1 Azure Administration
+# Module 1 Azure Administration
 
 
 
@@ -188,7 +188,7 @@ can link Resource Manager templates together to make the templates themselves mo
 
 
 
-#Module 2 Azure Virtual Machines
+# Module 2 Azure Virtual Machines
 
 
 
@@ -1092,7 +1092,7 @@ commitment is made up front,
 
 
 
-#Module 3 Azure Storage
+# Module 3 Azure Storage
 
 
 
@@ -2426,7 +2426,7 @@ Azure NoSQL offering - Cosmos DB
 
 
 
-#Module 4 Virtual Networking
+# Module 4 Virtual Networking
 
 
 
@@ -2996,7 +2996,7 @@ Like a firewall
 
 
 
-#Module 5 Intersite Connectivity
+# Module 5 Intersite Connectivity
 
 
 
@@ -3646,7 +3646,7 @@ pick a billing model
 
 
 
-#Module 6 Monitoring
+# Module 6 Monitoring
 
 
 
@@ -4398,7 +4398,7 @@ Connectivity between VMs in different VNets connected using VNet peering.
 
 
 
-#Module 7 Data Protection
+# Module 7 Data Protection
 
 
 
@@ -5082,7 +5082,7 @@ Geo-redundant storage (
 
 
 
-#Module 8 Network Traffic Management
+# Module 8 Network Traffic Management
 
 
 
@@ -5568,7 +5568,7 @@ guest agent probe. This probe uses the guest agent inside the VM.
 
 
 
-#Module 9 Azure Active Directory
+# Module 9 Azure Active Directory
 
 
 
@@ -6130,7 +6130,7 @@ Users may sync settings and app data across devices
 
 
 
-#Module 10 Securing Identities
+# Module 10 Securing Identities
 
 
 
@@ -6712,7 +6712,7 @@ Sign-ins from infected devices
 
 
 
-#Module 11 Governance and Compliance
+# Module 11 Governance and Compliance
 
 
 
@@ -7374,7 +7374,7 @@ keep the account active.
 
 
 
-#Module 12 Data Services
+# Module 12 Data Services
 
 
 
