@@ -85,3 +85,5 @@ Can we create a VNet peer between subscriptions? | [YES](https://docs.microsoft.
 Question  | Answer
 ---|---
 When tracking the routes to the Azure SQL server the lab says you should see no hops, we see 20 what are we seeing here |
+Does Azure use its own provider for SMS? | 
+Load balancer basic - can it only LB Basic SKU NICs? |
