@@ -88,3 +88,8 @@ When tracking the routes to the Azure SQL server the lab says you should see no 
 Does Azure use its own provider for SMS? | [Pricing for mobile services](https://azure.microsoft.com/en-us/pricing/details/mobile-services/)
 Load balancer basic - can it only LB Basic SKU NICs? | [All the specs on the two SKUs](https://docs.microsoft.com/en-us/azure/load-balancer/concepts-limitations#publicloadbalancer)
 Can we run with Pass-thru Auth and Federation at the same time | It appears that you need to choose which Auth system you will use, this would mean you will use one or the other. [Doc showing choices for Auth](https://docs.microsoft.com/en-us/azure/security/fundamentals/choose-ad-authn)
+
+## Date : 31 Jan 2020
+
+Question  | Answer
+---|---
