@@ -5,7 +5,7 @@
 Question  | Answer
 ---|---
 What is the billing cycle for machines and FaaS  |   In the compare document it compares the costs for this and it relates to how many calls to the function are made each plan has so many free and then you start paying
-How long are the trial accounts for that we create in class   |  One month @ $140
+How long are the trial accounts for that we create in class   |  One month with over $100 
 Using Resource Groups for billing  |  Yes you can do this, the best way I have seen to do this is with a "BillTo" Tag on resources
 Costs for Un-deallocated VMs  | [Stopped v deallocated](https://blogs.technet.microsoft.com/uspartner_ts2team/2014/10/10/azure-virtual-machines-stopping-versus-stopping-deallocating/) VMs core price will still be charged for un-deallocated
 Getting "Subscription Is Not Registered " errors    |  [Subscription Is Not Registered](https://aidanfinn.com/?p=21192) web site to solve some of these errors
