@@ -79,3 +79,9 @@ DNS Zone, Record Sets are they like DNS Round Robin? | The do not appear to be, 
 Question  | Answer
 ---|---
 Can we create a VNet peer between subscriptions? | [YES](https://docs.microsoft.com/en-us/azure/virtual-network/create-peering-different-subscriptions)
+
+## Date : 29 Jan 2020
+
+Question  | Answer
+---|---
+When tracking the routes to the Azure SQL server the lab says you should see no hops, we see 20 what are we seeing here |
