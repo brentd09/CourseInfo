@@ -80,7 +80,7 @@ Question  | Answer
 ---|---
 Can we create a VNet peer between subscriptions? | [YES](https://docs.microsoft.com/en-us/azure/virtual-network/create-peering-different-subscriptions)
 
-## Date : 29 Jan 2020
+## Date : 30 Jan 2020
 
 Question  | Answer
 ---|---
