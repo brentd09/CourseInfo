@@ -1,22 +1,5 @@
 
 
-# Module 0 Welcome
-
-
-
-
-
-Professionals how to manage 
-
-
-
-
-
-Azure Active Directory, 
-
-This is a note
-
-
 
 # Module 1 Azure Administration
 
@@ -1102,7 +1085,7 @@ Azure Storage
 
 https://channel9.msdn.com/events/Build/2018/BRK2112?term=%22azure%20storage%22&sortBy=recent&lang-en=true&pageSize=15 Availability - Resource up time Durability - Long term data integrity Secure - All data wriiten to Azure storage is encryted Scalable. Designed to be massively scalable Managed. Azure handles all of the - hardware maintenance - updates - critical issues Accessible. Accessible from anywhere in the world over HTTP or HTTPS. Can store - files - messages - tables - other types of information Categories of data stored: - VM Storage - Unstructured Data. - Blobs (Blobs are highly scaleable) - Data Lake Store (is an Hadoop Distributed File System (HDFS)) - Structured Data - Tables (Key-Value pairs) - CosmosDB - SQL DB
 
-Public note added a day ago by Brent Denny
+Public note added 2 days ago by Brent Denny
 
 
 
@@ -4528,6 +4511,12 @@ Recovery Services vault
 
 
 
+Data is replicated across three Azure availability zones in the primary region and replicated to a secondary geographic region for protection from [...]
+
+
+
+
+
 Azure-based service you can use to back up (or protect) and restore your data in the Microsoft cloud. 
 
 
@@ -4546,6 +4535,12 @@ six copies of your data.
 
 
 
+a storage entity in Azure that houses data. 
+
+
+
+
+
 Microsoft Azure Recovery Services (
 
 
@@ -4553,6 +4548,12 @@ Microsoft Azure Recovery Services (
 
 
 always replicated to ensure durability and high availability. 
+
+
+
+
+
+replicate on-premises physical or virtual machines running Windows or Linux. 
 
 
 
@@ -4588,6 +4589,12 @@ replicated three times across two to three facilities, either within a single re
 
 
 
+Site Recovery 
+
+
+
+
+
 three times within the primary region and is also replicated three times in a secondary region 
 
 
@@ -4612,7 +4619,19 @@ typically copies of data,
 
 
 
+copies of data, or configuration information for virtual machines (VMs), workloads, servers, or workstations. 
+
+
+
+
+
 This method can be used for specialized workloads, virtual machines, or files, folders, and volumes. Specialized workloads can include SharePoint, [...]
+
+
+
+
+
+includes support for both Hyper-V and VMware 
 
 
 
@@ -4636,7 +4655,19 @@ backing up Azure VMs running production workloads,
 
 
 
+Enables read access to data in the secondary region with read-access geo-zone-redundant storage (RA-GZRS).
+
+
+
+
+
 Continuous replication begins for the VM. 
+
+
+
+
+
+replicate data from your on-premises datacenter to Azure or to a secondary site. 
 
 
 
@@ -4776,6 +4807,12 @@ The
 
 
 
+works in the following three scenarios:
+
+
+
+
+
 on-premises machines, 
 
 
@@ -4795,6 +4832,12 @@ benefits
 
 
 Offload on-premises backup
+
+
+
+
+
+Hyper-V Virtual Machine Replication
 
 
 
@@ -4884,6 +4927,12 @@ development and test environments, snapshots provide a quick and simple option f
 
 
 
+VMware Virtual Machine Replication
+
+
+
+
+
 particularly useful when apps are tiered over multiple machines 
 
 
@@ -4929,6 +4978,12 @@ Free
 
 
 data is still accessible for both read and write operations 
+
+
+
+
+
+Physical Windows and Linux machines
 
 
 
@@ -5024,7 +5079,19 @@ Retain short and long-term data
 
 
 
+Recovery Services vaults for short-term and long-term data retention. 
+
+
+
+
+
 primary region becomes unavailable, you can perform an account failover (preview) to the secondary region. When 
+
+
+
+
+
+limit of 9999 recovery points per protected instance.
 
 
 
@@ -5049,6 +5116,12 @@ changes that haven't yet been geo-replicated may be lost.
 
 
 number of minutes of potential data that's lost is known as the RPO. 
+
+
+
+
+
+no cost for using on-premises storage devices. 
 
 
 
@@ -6162,7 +6235,7 @@ Skip MFA - Authenticate a single time without performing two-step verification -
 
 Fraud Alerts
 
-Configure the fraud alert feature so that your users can report fraudulent attempts to access their resources - User reports fraud, their account is blocked for 90 days - or until an administrator unblocks their account - User normally types # to verify the Two stage auth - To report Fraud - user types # - can customise the code - Default code = 0 - 0# reports fraud
+Configure the fraud alert feature so that your users can report fraudulent attempts to access their resources - User reports fraud, their account is blocked for 90 days - or until an administrator unblocks their account - User normally types # to verify the Two stage auth on phone call method - To report Fraud - user types # - can customise the code - Default code = 0 - 0# reports fraud
 
 
 
@@ -6170,7 +6243,7 @@ Configure the fraud alert feature so that your users can report fraudulent attem
 
 Azure AD Identity Protection
 
-Azure AD Identity Protection is available to - Enterprise Mobility Suite and/or the - Azure AD Premium P2 service. Azure AD Identity Protection enables you to: - Detect potential vulnerabilities affecting your organization’s identities - Configure automated responses to detected suspicious actions that are related to your organization’s identities - Investigate suspicious incidents and take appropriate action to resolve them - Identity Protection capabilities Uses Machine learning algorithms and heuristics to detect suspicious actions related to your user's identities. - The system creates a record for each detected suspicious action. (risk events). Azure AD Identity Protection lets you set risk-based Conditional Access policies to automatically protect your users
+Azure AD Identity Protection is available to - Enterprise Mobility Suite and/or the - Azure AD Premium P2 service. Azure AD Identity Protection enables you to: - Detect potential vulnerabilities affecting your organization’s identities - Configure automated responses to detected suspicious actions that are related to your organization’s identities - Investigate suspicious incidents and take appropriate action to resolve them - Identity Protection capabilities Uses Machine learning algorithms and heuristics to detect suspicious actions related to your user's identities. - The system is watching you and how you typically work, this is how it can detect suspicious activity - The system creates a record for each detected suspicious action. (risk events). Azure AD Identity Protection lets you set risk-based Conditional Access policies to automatically protect your users
 
 
 
@@ -6178,7 +6251,7 @@ Azure AD Identity Protection is available to - Enterprise Mobility Suite and/or 
 
 Azure AD Risk Events
 
-Azure Active Directory detects six types of risk events: - Leaked credentials - Sign-ins from anonymous IP addresses - using an anonymous proys - Impossible travel to atypical locations - Logins happening from different locations too quickly - Sign-in from unfamiliar locations - Machine learning 
+Azure Active Directory different types of risk events: - Leaked credentials - Sign-ins from anonymous IP addresses - using an anonymous proxies - Impossible travel to atypical locations - Logins happening from different locations too quickly - Sign-in from unfamiliar locations - Machine learning 
 
 
 
@@ -6194,7 +6267,7 @@ Each login is checked for compromising behaviour - Each event recorded can be de
 
 Sign-in Risk Policy
 
-Azure AD detects the probability that a user account has been compromised. Configure Policy - Users and groups the policy applies to - Assign the condition (Low and above, Medium and above, or High) - The access type you will enforce for the user based on sign-in risk level - Set Enforce Policy to On - You can configure a sign-in risk security policy to require MFA:
+Azure AD detects the probability that a user account has been compromised. Configure Policy settings - Users and groups the policy applies to - Assign the condition (Low and above, Medium and above, or High) - The access type you will enforce for the user based on sign-in risk level - Set Enforce Policy to On - You can configure a sign-in risk security policy to require MFA:
 
 
 
@@ -6208,7 +6281,7 @@ Security Best Practices
 
 Self-Service Password Reset
 
-Time and money wasted - help desk resetting passwords SSPR - Decide who you allow to do this
+Time and money wasted - help desk resetting passwords SSPR - Decide who you allow to do this - Hope that the user remember how - so they dont call you anyway
 
 
 
@@ -6228,7 +6301,7 @@ To enable MFA, go to the User Properties in Azure Active Directory,
 
 
 
-Trusted IPs is a feature to allow federated users or IP address ranges to bypass two-step authentication. 
+Trusted IPs is a feature 
 
 
 
@@ -6270,6 +6343,12 @@ Azure AD detects the probability that a user account has been compromised.
 
 
 
+federated users 
+
+
+
+
+
 authenticate a single time without performing two-step verification. The bypass is temporary and expires after a specified number of seconds.
 
 
@@ -6289,6 +6368,12 @@ evidence of a compromised account or any suspicious activity,
 
 
 you pick the number of authentication methods required to reset a password 
+
+
+
+
+
+IP address ranges to bypass two-step authentication. 
 
 
 
@@ -6325,6 +6410,12 @@ For risk events that the system detects,
 
 
 adaptive machine learning algorithms and heuristics to detect suspicious actions 
+
+
+
+
+
+by enabling the Require Users to Register when Signing in
 
 
 
@@ -6426,6 +6517,12 @@ system can detect some risk events in real-time
 
 
 
+Trusted IPs bypass works only from inside of the company intranet. 
+
+
+
+
+
 security questions, 
 
 
@@ -6462,13 +6559,13 @@ Selectedoption is useful for creating specific groups who have self-service pass
 
 
 
-users receive a phone call to perform two-step verification, they normally press # to confirm their sign-in. To report fraud, the user enters a co [...]
-
-
-
-
-
 MFA two-step verification 
+
+
+
+
+
+users receive a phone call to perform two-step verification, they normally press # to confirm their sign-in. To report fraud, the user enters a co [...]
 
 
 
@@ -6498,13 +6595,31 @@ analyzes each user sign-in with the intention of detecting suspicious actions,
 
 
 
+signs in from outside the company intranet, the user must authenticate by using two-step verification. 
+
+
+
+
+
 impossible travel to atypical locations. 
 
 
 
 
 
+There are two modes to register: interruptand manage
+
+
+
+
+
 Azure MFA is included free of charge 
+
+
+
+
+
+Interrupt mode, 
 
 
 
@@ -6517,6 +6632,12 @@ matches traffic patterns of IP addresses used by attackers,
 
 
 Azure AD Identity Protection is a service that helps to ward off compromised user accounts and configuration vulnerabilities. 
+
+
+
+
+
+wizard-like experience, shown to a user when they register 
 
 
 
@@ -6546,7 +6667,19 @@ have (a trusted device
 
 
 
+Manage 
+
+
+
+
+
 Azure AD calculates a value representing the probability (low, medium, high) that the sign is not performed by the legitimate user. 
+
+
+
+
+
+part of the user’s profile and allows them to manage their security info.
 
 
 
@@ -6564,13 +6697,13 @@ are (biometrics)
 
 
 
-service is available from Azure Marketplace 
-
-
-
-
-
 more security with less complexity
+
+
+
+
+
+service is available from Azure Marketplace 
 
 
 
@@ -6720,7 +6853,7 @@ Sign-ins from infected devices
 
 Management Groups
 
-Management Groups are like compliance containers for subscriptions - Mgmt Groups can contain other Mgmt Groups forming a hierarchy - Assign governance conditions to the mgmt groups - Subscriptions under the MG will inherit the conditions - Example - Create VMs in a set region ONLY 
+Management Groups are like compliance containers for subscriptions - Mgmt Groups can contain other Mgmt Groups forming a hierarchy - Assign governance conditions to the mgmt groups - Subscriptions under the MG will inherit the conditions 
 
 
 
@@ -6729,6 +6862,14 @@ Management Groups are like compliance containers for subscriptions - Mgmt Groups
 Creating Management Groups
 
 Can create mgmt groups - Portal - PowerShell - CLI Cannot use - Templates ( at this time ) Mgmt Group Creation - MG ID - Cannot be altered after making the group - internally referenced - Display Name - Name shown in the portal
+
+
+
+
+
+Azure Subscriptions
+
+Linked to an Azure Account Subscriptions have accounts. - An Azure account is simply an identity in Azure Active Directory (Azure AD) Every subscription is associated with an Active Directory To give users access to all Azure resources - add them to the AzureAD linked to the Subscription - User will have access to all resources in the subscription
 
 
 
@@ -6744,7 +6885,7 @@ Subscriptions - Usage and Quotas Track Resources againts Limits - You can reques
 
 Resource Tags
 
-Makes it easy to categorise resourses - you can retrieve resources from - different resource groups - that relate to the same category Downloading usage stats as CSV the tags are included - this could make it easy to create DB/SpreadSheet reports grouping usage by TAG
+Makes it easy to categorise resourses - you can retrieve resources from - different resource groups - that relate to the same category Downloading usage stats as CSV the tags are included - this could make it easy to create DB/SpreadSheet reports grouping usage by TAG Ask yourself: (These could help you decide what tags to use) - How does billing divide the organization for chargeback purposes? By department? By project? - Are there any department-specific codes (e.g. for cost centers) or taxonomies you should be aware of? - What information does upper management want to see on reports? - How does each department hold its users accountable for resource use?
 
 
 
@@ -6760,7 +6901,7 @@ Billing calculator - Gives estimates of costs Billing Alerts - help you monitor 
 
 RBAC Concepts
 
-Configured by selecting - a role (the definition of what actions are allowed and/or denied), - associating the role with a user, group or service principal. - Finally, user+role is scoped to either the - entire subscription - a resource group - specific resources
+Configured by selecting Role Based management - a role (the definition of what actions are allowed and/or denied), - associating the role with a user, group or service principal. - Finally, user+role is scoped to either the - entire subscription - a resource group - specific resources
 
 
 
@@ -6768,7 +6909,7 @@ Configured by selecting - a role (the definition of what actions are allowed and
 
 RBAC Roles
 
-Over 100 Predefined roles Common Roles: - Owner - Contributor - Reader Look for the IAM blade in a resource
+Over 100 Predefined roles Common Roles: - Owner - Contributor - Reader https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles Look for the IAM blade in a resource
 
 
 
@@ -6846,17 +6987,9 @@ Group owners - manage a group and its members
 
 
 
-Azure Policy
-
-Azure Policy - enforce different policys for resources so they comply with security standards Examples: - Locations allowed - Certificate expiry alerts - Standard Tags are applied Types: - Logging - Apply to Management Group - Remediation History of Changes to resources by Remediation Policies - What has been added - What has been removed
-
-
-
-
-
 Implementing Azure Policy
 
-Browse Policy Definitions. - A Policy Definition expresses what to evaluate and what actions to take. Create Initiative Definitions. - An initiative definition is a set of Policy Definitions to help track your compliance state for a larger goal. For example, ensuring a branch office is compliant. Scope the Initiative Definition. - You can limit the scope of the Initiative Definition to Management Groups, Subscriptions, or Resource Groups. View Policy Evaluation results. - Once an Initiative Definition is assigned, you can evaluate the state of compliance for all your resources. 
+For example you may want to setup a policy to: - restrict what VM sizes are available to a subscription - enforce a standard for tags - set allowed locations to choose from
 
 
 
@@ -6900,12 +7033,6 @@ Access does not need to be granted to the entire subscription.
 
 
 
-role is a set of properties defined in a JSON file. This role definition includes Name, Id, and Description. It also includes the allowable permis [...]
-
-
-
-
-
 multiple ways to add cloud identities 
 
 
@@ -6937,6 +7064,12 @@ service in Azure that you use to create, assign and manage policies.
 
 
 can use PowerShell to import data into your directory, 
+
+
+
+
+
+defined in a JSON 
 
 
 
@@ -6984,7 +7117,19 @@ Billing Alertshelp you monitor and manage billing activity for your Azure accoun
 
 
 
+includes Name, Id, and Description. 
+
+
+
+
+
 policies enforce different rules over your resources, 
+
+
+
+
+
+what to evaluate and what actions to take. 
 
 
 
@@ -7026,13 +7171,31 @@ to grant appropriate access to Azure AD users, groups, and services.
 
 
 
+allowable permissions (
+
+
+
+
+
 CSV) 
 
 
 
 
 
+denied permissions (
+
+
+
+
+
 Group owners aren't required to be members of the group. 
+
+
+
+
+
+scope (
 
 
 
@@ -7068,6 +7231,18 @@ Subscriptions
 
 
 
+global administrator has access to all administrative features. 
+
+
+
+
+
+organize access to cloud service resources. 
+
+
+
+
+
 help you control how resource usage is reported, billed, and paid for. 
 
 
@@ -7087,6 +7262,12 @@ Policy evaluation happens about once an hour,
 
 
 If you need to increase a default limit, there is a Request Increase link. 
+
+
+
+
+
+initiative definition is a set of Policy Definitions to help track your compliance 
 
 
 
@@ -7148,6 +7329,12 @@ Adding Members to Groups
 
 
 
+the subscription ID may be required for programmatic operations.
+
+
+
+
+
 If your current limit is already at the maximum number, the limit can't be increased.
 
 
@@ -7160,7 +7347,19 @@ Users brought in to Azure through a synchronization
 
 
 
+limit the scope of the Initiative Definition to Management Groups, Subscriptions, or Resource Groups.
+
+
+
+
+
 Apply policies to a Management Group with control across your entire organization. 
+
+
+
+
+
+you can observe the complete list of permissions granted by the role assignment. 
 
 
 
@@ -7196,6 +7395,12 @@ resource or resource group
 
 
 
+can evaluate the state of compliance for all your resources. 
+
+
+
+
+
 Users from outside Azure. 
 
 
@@ -7208,7 +7413,7 @@ Real time remediation, and remediation on existing resources.
 
 
 
-create rules to enable attribute-based dynamic memberships for groups 
+create rules 
 
 
 
@@ -7232,6 +7437,12 @@ This role has control over all the services in the subscription.
 
 
 
+dynamic memberships 
+
+
+
+
+
 Tags applied to the resource group 
 
 
@@ -7239,6 +7450,12 @@ Tags applied to the resource group
 
 
 Scope your role
+
+
+
+
+
+For example, if a user’s Department is Sales, then they are dynamically assigned to the Sales group. 
 
 
 
@@ -7298,6 +7515,12 @@ Account Administrator
 
 
 
+can be assigned to organizational users that are in the Azure AD 
+
+
+
+
+
 only person with access to the Account Center. 
 
 
@@ -7305,6 +7528,12 @@ only person with access to the Account Center.
 
 
 Typically to grant a user access to your Azure resources, you would add them to the Azure AD directory associated with your subscription. 
+
+
+
+
+
+can be assigned to Azure AD security groups. 
 
 
 
@@ -7322,25 +7551,9 @@ Service Administrator has management access to cloud resources using the Azure M
 
 
 
-Service principals
+Service identities are represented as service principals in the directory. 
 
-
-
-
-
-Service identities are represented as service principals in the 
-
-
-
-
-
-directory. 
-
-
-
-
-
-authenticate with Azure AD and securely communicate with one another. 
+Need to register and Application with Azure portal - This will give you a secret - The secret is set on the app request so it can authenticated by Azure for access
 
 
 
@@ -7353,12 +7566,6 @@ Additionally, Co-Administrators
 
 
 can’t delete the Service Administrator 
-
-
-
-
-
-assigning roles through the Azure module for Windows PowerShell 
 
 
 
