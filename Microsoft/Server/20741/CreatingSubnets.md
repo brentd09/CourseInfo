@@ -21,4 +21,4 @@
 **This shows us:**<br>
 **to get 4 subnets we need to trade 2 host bits to networks**<br> 
 **to get 8 subnets we need to trade 3 host bits to networks**<br><br> 
-**In this case 4 subnets (trading 2 host bits to networks) is not enough as we need 5 subnets, therefore we need to trade 3 host bits, giving us 8 networks. We could trade more host bits giving us more networks, however we would also need to make sure we have enough host bits remaining to accomodate the required hosts/subnet requirements. This calcluation is done with this formular 2<sup>host-bits</sup>-2=Valid-Host-Addresses**<br> 
+**In this case 4 subnets (trading 2 host bits to networks) is not enough as we need 5 subnets, therefore we need to trade 3 host bits, giving us 8 networks. We could trade more host bits giving us more networks, however we would also need to make sure we have enough host bits remaining to accomodate the required hosts/subnet requirements. This calcluation is done with this formular (2<sup>host-bits</sup>)-2=Number-Of-Host-Addresses**<br> 
