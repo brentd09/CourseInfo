@@ -1,5 +1,5 @@
 # How to calculate subnets 
-### <u>Given scenario</u>
+### Given scenario
 
 #### 130.4.0.0/16 address has been aquired for subnetting
 #### 5 subnets are required
