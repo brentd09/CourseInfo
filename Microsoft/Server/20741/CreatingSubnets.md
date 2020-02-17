@@ -6,6 +6,8 @@
 ## 2000 host IP addresses / subnet are required
 
 ## Step 1 
+
 **How many bits do we need to trade from the hosts to accomodate the networks required**
+
 2<sup>1</sup>=2
 
