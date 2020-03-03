@@ -21,3 +21,8 @@ What if some files need to be replaced after the installation of an Application 
 How do I change the target location of an application | This will send the installation to a different path: msiexec /passive TARGETDIR="D:\MyTargetDirectory" /i Software.msi
 Can we get a quick report from powershell regarding the status of the Endpoint Security status | Get-Ciminstance -Namespace root/sms/Site_S01 -Classname SMS_EndpointProtectionHealthStatus
 Which client is affected by what Maintenance Window | using the WMI classes SMS_Collection and SMS_FullCollectionMembership from the namespace root/sms/site_S01 you can determine which collection a device is in and from there you can determine which Maint Windows are in effect. 
+## Date : 20 Jan 2020
+
+Question  | Answer
+---|---
+What happens if a collection is not given a "Maintenance Window" | The deployments and updates will occur whenever they are issued and will not be restricted to a time windows
