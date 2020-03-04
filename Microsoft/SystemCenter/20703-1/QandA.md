@@ -32,3 +32,4 @@ Question  | Answer
 ---|---
 What is the Harward history in the resource explorer | This is the results of the last 15 scans that were made for hardware inventory
 Where can I find examples of asset intelligence license import files | [Example of an import file which needs to saved as a CSV file](https://docs.microsoft.com/en-us/configmgr/core/clients/manage/asset-intelligence/example-asset-intelligence-general-license-import) 
+How do SCCM clients know that other peer clients have the content they are requesting | The Peer client sends state messages back to the Management Point, this knowledge is then sent when a client requests the content from the MP [Microsoft Docs](https://docs.microsoft.com/en-us/configmgr/core/plan-design/hierarchy/client-peer-cache)
