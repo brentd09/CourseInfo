@@ -41,3 +41,4 @@ Setting the Primary Device for a user can be set either from the Software Center
 Question  | Answer
 ---|---
 How to clean up SCCM data to save space on the disk | Try using the Software Update Content Cleanup tool, IIS log cleanup tools, [Try this web site](http://eskonr.com/2016/08/sccm-configmgr-how-to-clean-ccmcache-content-older-than-x-days-using-compliance-settings/) and [this one too](https://www.systemcenterdudes.com/how-to-use-sccm-content-library-cleanup-tool/). You can write scripts to automate cleanup as well (be careful doing this) [Automate Orphaned content](https://www.scconfigmgr.com/2017/05/16/automating-content-library-content-clean-up/)
+Which log file is for what? | [This is the official SCCM log reference](https://docs.microsoft.com/en-us/configmgr/core/plan-design/hierarchy/log-files)
