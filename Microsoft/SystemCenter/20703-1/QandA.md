@@ -36,7 +36,7 @@ How do SCCM clients know that other peer clients have the content they are reque
 Application Dependencies and Requirements, what is the difference | A requirement tells SCCM which Deployment Type to deploy based on Hardware and/or O/S, the Dependency is Deployment type focused and will tell SCCM what software needs to be installed before a particular Deployment Type can be installed. [See Docs](https://docs.microsoft.com/en-us/configmgr/apps/understand/introduction-to-application-management) 
 How do Deployment Type priorities work in SCCM | [They are evaluated in order and if triggered no other priority is evaluated](https://docs.microsoft.com/en-us/previous-versions/system-center/system-center-2012-R2/gg682031(v=technet.10)?redirectedfrom=MSDN)
 Setting the Primary Device for a user can be set either from the Software Center tools or from SCCM via Automatic or Manual affinity settings | For the manual affinity it appears that the user must have logged in to that machine before they can be selected for affinity [Primary Device](https://docs.microsoft.com/en-us/configmgr/apps/deploy-use/link-users-and-devices-with-user-device-affinity)
-## Date : 4 Mar 2020
+## Date : 5 Mar 2020
 
 Question  | Answer
 ---|---
