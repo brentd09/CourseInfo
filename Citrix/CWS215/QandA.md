@@ -40,12 +40,8 @@ Is there a tool that can check the proxy support for Citrix Cloud | Look [here](
 
 Question  | Answer
 ---|---
-Published Content how it works in XD7 | You can publish an application that is simply a URL or UNC path to a resource, such as a Microsoft Word document or a web link. This feature is known as published content. The ability to publish content adds flexibility to how you deliver content to users. You benefit from the existing access control and management of applications. And, you can specify what to use to open the content: local or published applications.
-The published content appears just like other applications in StoreFront and Citrix Receiver. Users access it in the same way they access applications. On the client, the resource opens as usual.
-If a locally installed application is appropriate, it is launched to open the resource.
-If a File Type Association has been defined, a published application launches to open the resource. [Docs](https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/install-configure/publish-content.html)
-If a locally installed application is appropriate, it is launched to open the resource.
-If a File Type Association has been defined, a published application launches to open the resource.
+Published Content how it works in XD7 | You can publish an application that is simply a URL or UNC path to a resource, such as a Microsoft Word document or a web link. This feature is known as published content. The ability to publish content adds flexibility to how you deliver content to users. You benefit from the existing access control and management of applications. And, you can specify what to use to open the content: local or published applications.The published content appears just like other applications in StoreFront and Citrix Receiver. Users access it in the same way they access applications. On the client, the resource opens as usual.
+If a locally installed application is appropriate, it is launched to open the resource.If a File Type Association has been defined, a published application launches to open the resource. [Docs](https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/install-configure/publish-content.html)
 Queue for deletion of Difference disks - can this be modified and what is the default time | Look at Get-ProvTask for information regarding the queue of stale disks
 Clone on boot | Clone on boot means that the Citrix Hypervisor takes care of the creation of the new differenceing disks on boot instead of Citrix Apps and Desktops doing it
 Memory and Disk cache settings when creating MCS Machine catalogs | [Great site that describes these settings](https://www.jgspiers.com/machine-creation-services-storage-ram-disk-cache/)
