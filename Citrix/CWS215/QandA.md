@@ -41,7 +41,6 @@ Is there a tool that can check the proxy support for Citrix Cloud | Look [here](
 Question  | Answer
 ---|---
 Published Content how it works in XD7 |  [Publishing Content and how it is used](https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/install-configure/publish-content.html)
-Queue for deletion of Difference disks - can this be modified and what is the default time | [Tech article](https://support.citrix.com/article/CTX223133?_ga=2.132411406.1854655211.1583708798-1865752561.1583708798) <br>Look at Get-ProvTask for information regarding the queue of stale disks. The default is every 6 hours. <br>It can be modified with these commands: <br>```Set-ProvServiceConfigurationData -Name DiskReaper_retryInterval -Value 0:0:1  
-Set-ProvServiceConfigurationData -Name DiskReader_heartbeatInterval -Value 0:0:1 ```
+Queue for deletion of Difference disks - can this be modified and what is the default time | [Tech article](https://support.citrix.com/article/CTX223133?_ga=2.132411406.1854655211.1583708798-1865752561.1583708798) <br>Look at Get-ProvTask for information regarding the queue of stale disks. The default is every 6 hours. <br>It can be modified with these commands: <br>```Set-ProvServiceConfigurationData -Name DiskReaper_retryInterval -Value 0:0:1``` <br>  ```Set-ProvServiceConfigurationData -Name DiskReader_heartbeatInterval -Value 0:0:1 ```
 Clone on boot | Clone on boot means that the Citrix Hypervisor takes care of the creation of the new differenceing disks on boot instead of Citrix Apps and Desktops doing it
 Memory and Disk cache settings when creating MCS Machine catalogs | [Great site that describes these settings](https://www.jgspiers.com/machine-creation-services-storage-ram-disk-cache/)
