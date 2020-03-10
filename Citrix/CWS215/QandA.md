@@ -43,3 +43,4 @@ Question  | Answer
 Published Content how it works in XD7 |
 Queue for deletion of Difference disks - can this be modified and what is the default time | Look at Get-ProvTask for information regarding the queue of stale disks
 Clone on boot | Clone on boot means that the Citrix Hypervisor takes care of the creation of the new differenceing disks on boot instead of Citrix Apps and Desktops doing it
+Memory and Disk cache settings when creating MCS Machine catalogs | [Great site that describes these settings](https://www.jgspiers.com/machine-creation-services-storage-ram-disk-cache/)
