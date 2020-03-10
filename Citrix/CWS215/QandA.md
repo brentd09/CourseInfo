@@ -45,3 +45,9 @@ Queue for deletion of Difference disks - can this be modified and what is the de
 Clone on boot | Clone on boot means that the Citrix Hypervisor takes care of the creation of the new differenceing disks on boot instead of Citrix Apps and Desktops doing it
 Memory and Disk cache settings when creating MCS Machine catalogs | [Great site that describes these settings](https://www.jgspiers.com/machine-creation-services-storage-ram-disk-cache/)
 OKTA SAML | [Configuration Guide](https://support.okta.com/help/s/article/Citrix-NetScaler-Gateway-SAML-Configuration-Guide)
+
+## Date : 10 Mar 2020
+
+Question  | Answer
+---|---
+To use EDT and Citrix Cloud the feture matrix says you need a hybrid solution |
