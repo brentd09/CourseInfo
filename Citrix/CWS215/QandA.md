@@ -41,7 +41,6 @@ Is there a tool that can check the proxy support for Citrix Cloud | Look [here](
 Question  | Answer
 ---|---
 Published Content how it works in XD7 | You can publish an application that is simply a URL or UNC path to a resource, such as a Microsoft Word document or a web link. This feature is known as published content. The ability to publish content adds flexibility to how you deliver content to users. You benefit from the existing access control and management of applications. And, you can specify what to use to open the content: local or published applications. [Docs](https://docs.citrix.com/en-us/xenapp-and-xendesktop/7-15-ltsr/install-configure/publish-content.html)
-
 The published content appears just like other applications in StoreFront and Citrix Receiver. Users access it in the same way they access applications. On the client, the resource opens as usual.
 
 If a locally installed application is appropriate, it is launched to open the resource.
