@@ -7,3 +7,5 @@
 [EDT Deep dive Part I](https://www.citrix.com/blogs/2017/11/17/hdx-adaptive-transport-and-edt-icas-new-default-transport-protocol-part-i/)
 
 [EDT Deep dive Part II](https://www.citrix.com/blogs/2017/11/20/hdx-adaptive-transport-and-edt-icas-new-default-transport-protocol-part-ii/)
+
+[Configuring EDT](https://support.citrix.com/article/CTX220732)
