@@ -46,7 +46,7 @@ Clone on boot | Clone on boot means that the Citrix Hypervisor takes care of the
 Memory and Disk cache settings when creating MCS Machine catalogs | [Great site that describes these settings](https://www.jgspiers.com/machine-creation-services-storage-ram-disk-cache/)
 OKTA SAML | [Configuration Guide](https://support.okta.com/help/s/article/Citrix-NetScaler-Gateway-SAML-Configuration-Guide)
 
-## Date : 10 Mar 2020
+## Date : 11 Mar 2020
 
 Question  | Answer
 ---|---
