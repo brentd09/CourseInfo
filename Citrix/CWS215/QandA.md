@@ -35,3 +35,10 @@ Question  | Answer
 ---|---
 What is CIS |   go [here](https://cis.citrix.com/AutoSupport/howitworks/) for an explanation regarding how CIS works
 Is there a tool that can check the proxy support for Citrix Cloud | Look [here](https://support.citrix.com/article/CTX260337) for a tool from Citrix that will help in this regard.
+
+## Date : 10 Mar 2020
+
+Question  | Answer
+---|---
+Queue for deletion of Difference disks - can this be modified and what is the default time | 
+Clone on boot | Clone on boot means that the Citrix Hypervisor takes care of the creation of the new differenceing disks on boot instead of Citrix Apps and Desktops doing it
