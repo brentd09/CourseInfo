@@ -40,5 +40,6 @@ Is there a tool that can check the proxy support for Citrix Cloud | Look [here](
 
 Question  | Answer
 ---|---
-Queue for deletion of Difference disks - can this be modified and what is the default time | 
+Published Content how it works in XD7 |
+Queue for deletion of Difference disks - can this be modified and what is the default time | Look at Get-ProvTask for information regarding the queue of stale disks
 Clone on boot | Clone on boot means that the Citrix Hypervisor takes care of the creation of the new differenceing disks on boot instead of Citrix Apps and Desktops doing it
