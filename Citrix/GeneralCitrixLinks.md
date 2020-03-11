@@ -11,3 +11,5 @@
 [Configuring EDT](https://support.citrix.com/article/CTX220732)
 
 [Change MCS deletion timings via PS](https://support.citrix.com/article/CTX223133?_ga=2.165632831.1854655211.1583708798-1865752561.1583708798)
+
+[Checking the autodelete status of MCS for old masters](https://www.mycugc.org/blogs/cugc-blogs/2018/06/25/citrix-studio-unable-to-delete-hosting-resources-t)
