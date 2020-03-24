@@ -22,7 +22,7 @@ How do we trigger a fail of a "site" in Azure to test DR | Azure Traffic manager
 How do we use expressroute for uploading information into office 365   |  The subscription cost covers this
 What is a use case for the local storage emulator  |  When developing a solution using an on-prem storage emulator is fast cheap and provides most of the features developers would need to test out a solution
 ***Azure Account locked during course*** | Enter phone number and repond with SMS code to unlock
-***If Azure account lock and you cannot unlock with sms code*** |  Go to account.live.com - in here there when logging in it will ask for your login and your phone number, a test is sent to you phone number and this will unlock the account. This fix is for when the login is telling you that the account is locked with to many retries.
+***If Azure account lock and you cannot unlock with sms code*** |  Go to [account.live.com](account.live.com) - in here there when logging in it will ask for your login and your phone number, a test is sent to you phone number and this will unlock the account. This fix is for when the login is telling you that the account is locked with to many retries.
 
 ## Date : 06 Nov 2019
 
