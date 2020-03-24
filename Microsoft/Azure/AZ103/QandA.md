@@ -96,3 +96,9 @@ Question  | Answer
 ---|---
 What is the differences between the storage replication options | look [here](http://vunvulearadu.blogspot.com/2019/08/azure-storage-tiers-and-availability.html) 
 How do CDNs get chosen in azure for contentdelivery |
+
+## Date : 25 Mar 2020
+
+Question  | Answer
+---|---
+If a resource gets created by PowerShell or Az command is there a way to track the creation progress in the portal |
