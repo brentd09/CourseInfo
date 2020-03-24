@@ -95,7 +95,7 @@ Can we run with Pass-thru Auth and Federation at the same time | It appears that
 Question  | Answer
 ---|---
 What is the differences between the storage replication options | look [here](http://vunvulearadu.blogspot.com/2019/08/azure-storage-tiers-and-availability.html) 
-How do CDNs get chosen in azure for contentdelivery |
+How do CDNs get chosen in azure for content delivery |
 
 ## Date : 25 Mar 2020
 
