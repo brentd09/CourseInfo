@@ -79,3 +79,6 @@
 
 ## Application Control
 [A very good App whitelister - airlockdigital](https://www.airlockdigital.com/)
+
+## AZcopy
+[AZCOPY information](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-files)
