@@ -7,3 +7,4 @@ CTX159159 | Settings for session sharing Citrix 6.5
 CTX232362 | How to disable session sharing 7.x
 CTX109374 | StressPrinters tool
 CTX226257 | Citrix StressPrinter tool shows some printer drivers taking a long time to load
+CTX142119 | Citrix UPS Print Driver Certification Tool
