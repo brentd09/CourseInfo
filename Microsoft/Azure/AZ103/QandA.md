@@ -101,4 +101,4 @@ How do CDNs get chosen in azure for content delivery |
 
 Question  | Answer
 ---|---
-If a resource gets created by PowerShell or Az command is there a way to track the creation progress in the portal |
+If a resource gets created by PowerShell or Az command is there a way to track the creation progress in the portal | Looking in the activity log would be a great way to see what has happened
